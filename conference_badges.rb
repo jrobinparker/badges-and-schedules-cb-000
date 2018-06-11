@@ -28,6 +28,5 @@ def printer(batch_badge_creator, assign_rooms)
     puts room_assignment
   end 
 
-  
 end
   
